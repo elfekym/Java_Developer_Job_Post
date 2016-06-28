@@ -1,7 +1,9 @@
-# Java_Developer_Job_Post
+# Java Developer Job Post
 #Developed by Mohamed El-Feky
 #Used as a Job post for 3D|Diagnostix looking for a Java Developer
 #Last edit was June 28 , 2016
+
+```java
 public class TalentRequired {
 
     public enum Essentials {
@@ -12,7 +14,7 @@ public class TalentRequired {
         XML,JavaScript,JQuery,GWT,Vaadin,MySQL
     };
     public enum Knowledge {
-        WebService,ORM,OOP,Design_Patterns,Application_Design
+        WebService,ORM,OOP,DesignPatterns,ApplicationDesign
     };
     
     public static void main(String[] args) {
@@ -58,5 +60,5 @@ public class TalentRequired {
         boolean iGotKnowledge = false;//change to true if you do 
         return iGotKnowledge;
     }
-    
 }
+```
